@@ -1474,6 +1474,26 @@
   .conatiner-six{
     padding: 40px 0 0 0  ;
   }
+  .container-review{
+    padding-top: 0px;
+    padding-bottom: 40px;
+  }
+  .header-large-reviews{
+    margin-top: -100px;
+  }
+  #faq{
+    margin-bottom: 0px;
+  }
+ .FAQ-header {
+    margin-top: -60px;
+  }
+  .row{
+    margin-bottom: -50px;
+  }
+  .contact-us-section{
+    padding-top: 2px;
+    padding-bottom: 20px;
+  }
 
 
 
