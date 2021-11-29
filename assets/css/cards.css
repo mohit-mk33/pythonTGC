@@ -16,7 +16,7 @@
   cursor: pointer;
     transition: 0.4s;
     position: relative;
-    background: linear-gradient(90deg, #EC41FF, #0984E3);
+    background: linear-gradient(180deg, #EC41FF, #0984E3);
   }
   .card-three-row{
     height: 321px;
@@ -30,6 +30,7 @@
   .card-one-top{
     top: 102px;
   }
+  
 
   
   .card_new .card_image {
@@ -105,6 +106,54 @@
       /* On small screens, we are no longer using row direction but column */
       flex-direction: column;
     }
+    .card-1{
+    height: 444px;
+  }
+  .card-2{
+  height: 427px;
+  }
+  .card-3{
+    height: 262px;
+  }
+  .card-4{
+    height: 288px;
+  }
+  .card-5{
+    height: 301px;
+  }
+  .card-6{
+    height: 319px;
+  }
+  .card-7{
+    height: 354px;
+  }
+  .card-8{
+    height: 482px;
+  }
+  .card-9{
+    height: 277px;
+  }
+  .card-10{
+    height: 247px;
+  }
+  .card-11{
+    height: 401px;
+  }
+  .card-12{
+    height: 255px;
+  }
+  .card-13{
+    height: 247px;
+  }
+  .card-14{
+    height: 363px;
+  }
+  .card-15{
+    height: 194px;
+  }
+  .card-16{
+    height: 308px;
+  }
   }
   
   

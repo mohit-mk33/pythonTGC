@@ -470,7 +470,7 @@
             flex-direction: column;
         }
         .highlights-cards-section{
-            margin: 20px 0;
+            margin: -28px 0;
         }
     }
 
@@ -892,6 +892,9 @@
     @media screen and (max-width: 1199.98px){
         .perfection-section{
             margin-bottom: 150px!important;
+        }
+        #faq{
+             margin-bottom: -41px!important
         }
     }
     @media screen and (max-width: 991.98px){
@@ -1361,7 +1364,7 @@
             width: 100%;
         }
         #learn{
-            height: 1000px !important;
+            height: 845px !important;
             padding-bottom: 0 !important;
             margin-bottom: 0 !important;
         }
@@ -1372,7 +1375,7 @@
             padding-bottom: 0 !important;
         }
         #contact-us{
-            padding-top: 0 !important;
+            padding-top: 24px !important;
         }
         .header-section{
             padding-bottom: 0 !important;
@@ -1511,6 +1514,9 @@
     .header-bg-section{
         height: 100%;
     }
+    .contact-us-header-img-section{
+        display: none;
+    }
 }
     @media screen and (max-width: 575.98px){
         .header-img-section{
@@ -1545,7 +1551,7 @@
     }
     .container-four{
         margin-top: -64px;
-    margin-bottom: -86px;
+       margin-bottom: -86px;
     }
     .header-large-three{
         font-size: 30px;
@@ -1553,6 +1559,56 @@
     .header-large-four{
         margin-top: -220px;
     }
+    .header-subtitle-three-course{
+        font-size: 30px;
+    }
+    .about-our-course-header{
+    margin-top: -90px;
+  } 
+   .header-large-TGC{
+     font-size: 30px;
+   }
+   .header-subtitle-TGC{
+     font-size: 15px;
+   }
+   .about-our-course-two{
+    margin-top: -179px;
 
+  }
+  .header-large-TGC-Python{
+    font-size: 28px;
+  }
+  .header-large-scope-python{
+    font-size: 29px;
+  }
+  .highlights-card{
+        border-radius: 20px;
+        padding: 2px 40px 2px 40px;
+        background-color: #fff;
+        margin: 50px 10px;
+    }
+    .partners-section{
+        padding: 26px 0;
+
+    }
+    .learn-container{
+        margin-top: -80px;
+        margin-bottom: 40px;
+    }
+    .header-large-reviews{
+        margin-top: 22px;
+    }
+  #faq h2{
+    font-size: 30px;
+  }
+    #faq p{
+    font-size: 15px;
+  }
+  .header-large-contact{
+    font-size: 30px;
+  }
+  .subtitle-contact{
+    font-size: 14px;
+  }
         
 }
