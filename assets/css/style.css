@@ -1571,6 +1571,7 @@
     }
     .header-subtitle-three-course{
         font-size: 30px;
+        text-align: left;
     }
     .about-our-course-header{
     margin-top: -90px;
@@ -1580,14 +1581,18 @@
    }
    .header-subtitle-TGC{
      font-size: 15px;
+      text-align: left;
    }
    .about-our-course-two{
     margin-top: -179px;
+
+    text-align: left;
 
 
   }
   .header-large-TGC-Python{
     font-size: 28px;
+    text-align: left;
   }
   .header-large-scope-python{
     font-size: 29px;
