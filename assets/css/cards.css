@@ -30,6 +30,12 @@
   .card-one-top{
     top: 102px;
   }
+  .card-8, .card-9, .card-7{
+    height: 490px;
+  }
+  .card-10, .card-11, .card-12{
+    height: 420px;
+  }
   
 
   
@@ -77,6 +83,9 @@
     padding-left: 6%;
     list-style-type: circle;
     text-align: left;
+  }
+  .card-li{
+    padding-top: 10px ;
   }
   
   .card_new:hover {
