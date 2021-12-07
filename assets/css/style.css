@@ -665,7 +665,7 @@
         }
     }
 /* 7. BLOG SECTION */ 
-    .blog-section{
+   /* .blog-section{
         padding: 100px 0;
     }
     .blog-title-section{
@@ -687,7 +687,7 @@
         font-size: 12px;
         line-height: 1.4;
         font-weight: 700;
-		/* letter-spacing: 1px; */
+		/* letter-spacing: 1px; 
         text-transform: uppercase;
         border-bottom: 2px solid transparent;
         border-top: 0;
@@ -812,7 +812,7 @@
         .blog-list-control-filter{
             margin: 10px;
         }
-    }
+    }*/
 /* 8. PERFECTION SECTION */
     .perfection-section{
         background: linear-gradient(30deg, #EC41FF, #0984E3);
@@ -1487,7 +1487,7 @@
     padding: 40px 0 0 0  ;
   }
   .container-review{
-    padding-top: 0px;
+    padding-top: 130px;
     padding-bottom: 40px;
   }
   .header-large-reviews{
@@ -1612,7 +1612,7 @@
         margin-bottom: 40px;
     }
     .header-large-reviews{
-        margin-top: 22px;
+        margin-top: -98px;
     }
   #faq h2{
     font-size: 30px;
